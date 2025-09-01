@@ -1,8 +1,8 @@
  🏡 RuralCare Complaint Management System
  
-web-based complaint management system built with PHP and MySQL for rural areas.  
-It allows citizens to register, submit complaints, and track them.  
-Admins can manage complaints and provide responses.  
+- web-based complaint management system built with PHP and MySQL for rural areas.  
+- It allows citizens to register, submit complaints, and track them.  
+- Admins can manage complaints and provide responses.  
 
 
  🚀 Features
@@ -49,38 +49,6 @@ Password: admin123
 
 User
 Register a new account from the registration page.
-
-📌 Project Structure
-
-RuralCare_ComplaintSystem/
-├── config.php              # Database connection
-├── index.php               # Login Page
-├── register.php            # User Registration
-├── dashboard.php           # User Dashboard
-├── submit_complaint.php    # Complaint Submission
-├── profile.php             # User Profile
-├── logout.php              # Logout
-├── contact.php             # Contact Page
-├── offers.php              # Offers Page
-├── feedback.php            # Feedback Form
-├── feedback_submit.php     # Feedback Submission
-│
-├── admin/                  # Admin Panel
-│   ├── dashboard.php       # Admin Dashboard
-│   ├── header.php          # Admin Header
-│   ├── manage_complaint.php# Manage Complaints
-│   └── profile.php         # Admin Profile
-│
-├── includes/               # Reusable components
-│   ├── header.php          # Global Header
-│   └── footer.php          # Global Footer
-│
-├── assets/                 # Static files
-│   ├── style.css           # CSS Styles
-│   └── script.js           # JavaScript
-│
-├── ruralcare_db.sql        # Database schema
-└── README.md               # Documentation
 
 👥 User Roles
 1. User
