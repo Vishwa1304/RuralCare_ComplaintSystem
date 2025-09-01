@@ -82,7 +82,6 @@ RuralCare_ComplaintSystem/
 ├── ruralcare_db.sql        # Database schema
 └── README.md               # Documentation
 
-
 👥 User Roles
 1. User
 - Register/Login
