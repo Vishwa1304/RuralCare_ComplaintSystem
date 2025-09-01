@@ -31,12 +31,12 @@
    git clone https://github.com/Vishwa1304/RuralCare_ComplaintSystem.git
 
 2. Move the project folder to your XAMPP htdocs directory:
-C:\xampp\htdocs\RuralCare_ComplaintSystem
+- C:\xampp\htdocs\RuralCare_ComplaintSystem
 
 3. Import the database:
-Open phpMyAdmin (http://localhost/phpmyadmin/)
-Create a new database named:ruralcare_db
-Import the provided ruralcare_db.sql file (found inside the project folder).
+- Open phpMyAdmin (http://localhost/phpmyadmin/)
+- Create a new database named:ruralcare_db
+- Import the provided ruralcare_db.sql file (found inside the project folder).
 
 4. Run the project in your browser:
 http://localhost/RuralCare_ComplaintSystem
