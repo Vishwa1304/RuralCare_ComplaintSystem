@@ -53,34 +53,34 @@ Register a new account from the registration page.
 📌 Project Structure
 
 RuralCare_ComplaintSystem/
-│── config.php               # Database connection
-│── index.php                # Login Page
-│── register.php             # User Registration
-│── dashboard.php            # User Dashboard
-│── submit_complaint.php     # Complaint Submission
-│── profile.php      	     # user profile 
-│── logout.php               # Logout
-│── contact.php              # Contact Page
-│── offers.php               # Offers Page
-│── feedback.php             # Feedback Form
-│── feedback_submit.php      # Feedback Submission
+├── config.php               # Database connection
+├── index.php                # Login Page
+├── register.php             # User Registration
+├── dashboard.php            # User Dashboard
+├── submit_complaint.php     # Complaint Submission
+├── profile.php              # user profile 
+├── logout.php               # Logout
+├── contact.php              # Contact Page
+├── offers.php               # Offers Page
+├── feedback.php             # Feedback Form
+├── feedback_submit.php      # Feedback Submission
 │
 ├── admin/                   # Admin Panel
-│   │── dashboard.php        # Admin Dashboard
-│   │── header.php           # Admin Header
-│   │── manage_complaint.php # Manage Complaints
-│   │── profile.php          # Admin Profile
+│   ├── dashboard.php        # Admin Dashboard
+│   ├── header.php           # Admin Header
+│   ├── manage_complaint.php # Manage Complaints
+│   ├── profile.php          # Admin Profile
 │
 ├── includes/                # Reusable components
-│   │── header.php           # Global Header
-│   │── footer.php           # Global Footer
+│   ├── header.php           # Global Header
+│   ├── footer.php           # Global Footer
 │
 ├── assets/                  # Static files
-│   │── style.css            # CSS Styles
-│   │── script.js            # JavaScript
+│   ├── style.css            # CSS Styles
+│   ├── script.js            # JavaScript
 │
-│── ruralcare_db.sql         # Database schema
-│── README.md                # Documentation
+├── ruralcare_db.sql         # Database schema
+└── README.md                # Documentation
 
 👥 User Roles
 1. User
@@ -95,7 +95,7 @@ RuralCare_ComplaintSystem/
 - Manage complaints (approve/resolve/delete)
 - View user profiles
 
-  ✨ Author
+✨ Author
 
 Developed by Vishwa Pandya
 
